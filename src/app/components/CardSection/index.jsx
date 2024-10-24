@@ -5,7 +5,7 @@ export default function CardSection() {
     <section className="bg-[#1A2238] py-12">
       <div className="container mx-auto grid grid-cols-12 gap-8">
         
-        <div className="col-span-12 lg:col-span-4">
+        <div className="col-span-12 lg:col-span-4 font-montserrat">
           <Card 
             color="#FCD6D1" 
             title="training Courses" 
