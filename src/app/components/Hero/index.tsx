@@ -3,7 +3,7 @@ export default function Hero() {
       <section className="bg-[#1A2238] text-white py-20">
         <div className="container mx-auto text-center">
       
-          <h3 className="text-blue-400 text-lg mb-8 pt-20 pb-10 font-montserrat">Welcome</h3>
+          <h3 className="text-blue-400 text-lg mb-8 pt-5 pb-10 font-montserrat">Welcome</h3>
   
           <h1 className="text-5xl font-bold mb-6 font-montserrat">
             Selling on the <br /> internet like a pro
